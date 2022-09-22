@@ -1,0 +1,2 @@
+{"timestamp":0,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","experiment":"tcp-rollout-phase-iii-tcp-on-by-default-for-95-existing-release-profiles"}}
+{"timestamp":0,"category":"perf","name":"page_load","extra":{"js_exec_time":"50","load_type":"NORMAL","fcp_time":"5805","load_time":"7867","response_time":"4481"}}

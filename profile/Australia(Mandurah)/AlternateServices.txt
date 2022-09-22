@@ -1,0 +1,2 @@
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	1	19202	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1661695470:h3:y:1658810726:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:serverlist.piaservers.net:443:.::3	0	19199	https:serverlist.piaservers.net:443:serverlist.piaservers.net:443::n:1658897127:h3:y:1658810726:n::|n:y:
